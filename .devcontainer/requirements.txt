@@ -1,0 +1,11 @@
+GitPython
+autopep8
+pre-commit
+black
+bokeh
+flake8
+mypy
+numpy
+pandas
+evdev
+adafruit-circuitpython-ble-cycling-speed-and-cadence
